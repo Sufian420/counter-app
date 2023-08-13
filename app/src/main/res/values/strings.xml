@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Counter in kotlin</string>
+    <string name="display">0</string>
+    <string name="btnName1">+</string>
+    <string name="btnName2">-</string>
+    <string name="btnName3">ResetAll</string>
+</resources>
